@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atef IPTV</string>
+    <string name="app_title">ATEF IPTV</string>
+    <string name="support_phone">0581283398</string>
+    <string name="support_email">eng.ibrahimabdalfatah@gmail.com</string>
+    <string name="app_version">1.0.0 (Premium)</string>
+    <string name="app_tagline">مشغل وسائط IPTV احترافي عالي الأداء</string>
+    <string name="disclaimer_text">تطبيق ATEF IPTV عبارة عن مشغل وسائط (IPTV Player) فقط، ولا يحتوي على أي قنوات أو أفلام أو مسلسلات مدمجة. المستخدم هو المسؤول عن إضافة اشتراكه ومحتواه القانوني الخاص.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>latest_app_version</key>
+        <value>1.1.0</value>
+    </entry>
+    <entry>
+        <key>min_supported_version</key>
+        <value>1</value>
+    </entry>
+    <entry>
+        <key>is_update_required</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>update_title</key>
+        <value>تحديث جديد متاح لتطبيق ATEF IPTV</value>
+    </entry>
+    <entry>
+        <key>update_message</key>
+        <value>يتضمن هذا التحديث تسريع تشغيل البث المباشر HLS/DASH/RTSP، ودعم استمرارية تشغيل الصوت في الخلفية، وتشفير بيانات الدخول AES-256.</value>
+    </entry>
+    <entry>
+        <key>apk_download_url</key>
+        <value>https://github.com/atef-iptv/releases/releases/download/v1.1.0/atef_iptv_latest.apk</value>
+    </entry>
+    <entry>
+        <key>support_hotline</key>
+        <value>0581283398</value>
+    </entry>
+    <entry>
+        <key>support_email</key>
+        <value>eng.ibrahimabdalfatah@gmail.com</value>
+    </entry>
+</defaultsMap>
